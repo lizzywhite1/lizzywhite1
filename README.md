@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @lizzywhite1 (Lizzy White), I am a third year Mathematics with Statistics BSc student at Loughborough University. I have an intermediate knowledge of Python and R, and have been learning relevant Python libraries such as Python, Numpy, Matplotlib and Seaborn. 
-- 👀 I’m interested in learning more about Machine Learning and Quantitive Finance. 
-- 🌱 I am currently learning the fundamentals of ML as well as working on a project focusing on the effectiveness of LSTMs to forecast daily realised volatility.
-- 📫 How to reach me: e.white2-22@student.lboro.ac.uk
+- 👋 Hi, I’m @lizzywhite1 (Lizzy White),I am a Master's student studying Statistics at the University of Warwick. I recently completed my undergraduate degree in Mathematics with Statistics at Loughborough University. 
+- 🌱 I am currently working on my personal website where I will posting about my learnings as I self study Machine Learning and undertake a Data Science internship at GE Aerospace!
+- 📫 How to reach me: lizzywhite018@icloud.com
 - 😄 Pronouns: she/her
-
-<!---
-lizzywhite1/lizzywhite1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
